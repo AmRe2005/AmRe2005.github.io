@@ -1,0 +1,23 @@
+body {
+        background-color: burlywood;
+        color: maroon;
+    }
+
+ 
+    a:link {
+      color: mediumblue;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    a:visited {
+      color: indigo;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    a:hover {
+      color: royalblue;
+      background-color: transparent;
+      text-decoration: underline;
+    }
